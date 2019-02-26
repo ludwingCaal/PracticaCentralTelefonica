@@ -1,0 +1,11 @@
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\bin\MCD\Debug\netcoreapp2.2\CentralLlamadas.deps.json
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\bin\MCD\Debug\netcoreapp2.2\CentralLlamadas.runtimeconfig.json
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\bin\MCD\Debug\netcoreapp2.2\CentralLlamadas.runtimeconfig.dev.json
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\bin\MCD\Debug\netcoreapp2.2\CentralLlamadas.dll
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\bin\MCD\Debug\netcoreapp2.2\CentralLlamadas.pdb
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.csprojAssemblyReference.cache
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.csproj.CoreCompileInputs.cache
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.AssemblyInfoInputs.cache
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.AssemblyInfo.cs
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.dll
+C:\Users\Ludwing\Desktop\CentralTelefonica\CentralLlamadas\obj\MCD\Debug\netcoreapp2.2\CentralLlamadas.pdb
